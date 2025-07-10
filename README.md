@@ -7,7 +7,7 @@ I’m recursive_recursion:
 - ♻️ If I create and share digital things, it'll likely be licensed under AGPL-3.0
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on FOSS projects
-- 📫 How to reach me [p.d/u/recursive_recursion](https://piefed.ca/u/recursive_recursion)
+- 📫 How to reach me [Piefed.ca/u/recursive_recursion](https://piefed.ca/u/recursive_recursion)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: It's difficult to stay ignorant once you start unravelling systems to see how they work
 ---
