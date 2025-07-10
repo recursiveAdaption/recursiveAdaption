@@ -1,5 +1,5 @@
-Hello~  
-I’m @recursiveAdaption:
+Hello~👋  
+I’m recursive_recursion:
   - a recent Software Developer Grad of 2024  
   - Volunteer Admin & Moderator for PieFed.ca and Lemmy.ca.
   - Member of Fedecan a Canadian Nonprofit🤗🍁
